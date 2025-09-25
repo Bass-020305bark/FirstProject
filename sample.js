@@ -8,3 +8,7 @@ for(let i of map.values()){
 }
 console.log(map.delete(arr))
 console.log(map)
+
+
+
+console.log("hiii");
